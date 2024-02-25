@@ -69,4 +69,8 @@ jspm_packages/
 **/.DS_Store
 
 # don't include folder party content
-the-party/
+party/
+
+# don't include local tor dev files
+hidden_service/
+torrc.local
