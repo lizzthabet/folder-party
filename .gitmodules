@@ -1,0 +1,3 @@
+[submodule "folder-party-generator"]
+	path = folder-party-generator
+	url = git@github.com:lizzthabet/folder-party-generator.git
