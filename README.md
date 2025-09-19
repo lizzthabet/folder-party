@@ -1,5 +1,7 @@
 # my computer is a home that my friends can visit
 
+**This party has moved to a [new location](https://github.com/lizzthabet/folder-party-generator/tree/main/parties/lizz).**
+
 A website is just a collection of files in a folder.
 
 Hosting a website is like inviting your friends over to a folder on your computer.
